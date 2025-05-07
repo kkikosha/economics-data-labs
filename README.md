@@ -3,5 +3,7 @@ Educational projects in economics and analytics using Python and SQL.
 
 
 # housing_project.ipynb
-This project focuses on analyzing housing price data and building machine learning models to predict property values based on key features.  
-Using Python, pandas, seaborn, and scikit-learn, the project includes data loading and cleaning, exploratory data analysis (EDA), model training (Linear Regression, RandomForest, GradientBoosting), result comparison, and key insights.
+This project analyzes housing price data using Python and machine learning models.  
+It includes data cleaning, exploratory analysis, model building (Linear Regression, RandomForest, GradientBoosting), performance comparison, and SQL queries for additional insights.  
+The project demonstrates key skills in data analysis, model evaluation, and working with databases — ideal for showcasing as part of a junior data analyst portfolio.
+
